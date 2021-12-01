@@ -1,7 +1,7 @@
 #  Snake Game Project
 ## Introduction
 In this project I have developed a snake game where the goal of the game is to increase the length of the snake without biting its own tail. I have implemented the Snake game using C++ and the library SDL2 and Compiler cmake. When the Program is run in the C++ environment it first displays the `OS` that the user is using to run the game then it runs a simple snake game where the only way to die is for the snake to bite its own tail.
-<img src="snake_game.gif" width="800" height="500" />
+<img src="snake_game.gif" width="800" height="600" />
 
 
 
